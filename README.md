@@ -13,6 +13,13 @@ LINK: https://hashnode.com/edit/clgys39j8000409mb6gne5upb
 Day 4 : Kubernetes Services and Service Discovery
 LINK: https://safiakhatoon.hashnode.dev/kubernetes-services-and-service-discovery
 
+Day 5 : Kubernetes Storage and Kubernetes Security
+LINK: https://safiakhatoon.hashnode.dev/kubernetes-storage-and-kubernetes-security
 
+Day 6 : Kubernetes Cluster Maintenance
+LINK: https://safiakhatoon.hashnode.dev/kubernetes-cluster-maintenance
+
+DAY 7 : 
+LINK:
 
 Happy Learning😊👩‍💻
