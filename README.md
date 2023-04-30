@@ -19,7 +19,7 @@ LINK: https://safiakhatoon.hashnode.dev/kubernetes-storage-and-kubernetes-securi
 Day 6 : Kubernetes Cluster Maintenance
 LINK: https://safiakhatoon.hashnode.dev/kubernetes-cluster-maintenance
 
-DAY 7 : 
-LINK:
+DAY 7 : Kubernetes Troubleshooting
+LINK: https://safiakhatoon.hashnode.dev/kubernetes-troubleshooting
 
 Happy Learning😊👩‍💻
